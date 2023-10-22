@@ -1,0 +1,1 @@
+export { StyleOutlineSizeSmall } from "./StyleOutlineSizeSmall";

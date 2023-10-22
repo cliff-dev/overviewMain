@@ -1,0 +1,1 @@
+export { StyleFilledSizeBig } from "./StyleFilledSizeBig";

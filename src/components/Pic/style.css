@@ -1,0 +1,15 @@
+.pic {
+  border-radius: 48.5px;
+  height: 97px;
+  position: relative;
+  width: 97px;
+}
+
+.pic .ellipse {
+  height: 73px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 73px;
+}

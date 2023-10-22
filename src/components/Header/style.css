@@ -1,0 +1,237 @@
+.header {
+  height: 100px;
+  width: 1185px;
+}
+
+.header .frame {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 11px;
+  padding: 10px;
+  position: absolute;
+  top: 6px;
+  width: 278px;
+}
+
+.header .frame-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.header .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.header .text-wrapper {
+  color: var(--text-100);
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.header .text-wrapper-2 {
+  color: var(--stroke);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.header .icon-arrow-down {
+  height: 33px;
+  position: relative;
+  width: 33px;
+}
+
+.header .search-bar {
+  background-color: var(--background-color2);
+  border-radius: 8px;
+  height: 44px;
+  left: 319px;
+  position: absolute;
+  top: 28px;
+  width: 450px;
+}
+
+.header .icon-search-normal {
+  height: 24px;
+  left: 406px;
+  position: absolute;
+  top: 10px;
+  width: 24px;
+}
+
+.header .text-wrapper-3 {
+  color: var(--text-10);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.header .icon-wrapper {
+  background-color: var(--background-color2);
+  border-radius: 8px;
+  height: 44px;
+  left: 871px;
+  position: absolute;
+  top: 28px;
+  width: 44px;
+}
+
+.header .icon-notification-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 24px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+}
+
+.header .icon-notification {
+  background-image: url(https://c.animaapp.com/rWLqFFLy/img/notification-2@2x.png);
+  background-size: 100% 100%;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.header .ellipse-2 {
+  background-color: var(--sec-100);
+  border: 1px solid;
+  border-color: var(--text-100);
+  border-radius: 3px;
+  height: 6px;
+  left: 14px;
+  position: relative;
+  top: 2px;
+  width: 6px;
+}
+
+.header .photo-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 15px;
+  left: 945px;
+  position: absolute;
+  top: 28px;
+}
+
+.header .photo {
+  background-color: var(--background-color2);
+  border-radius: 8px;
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.header .div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 15px;
+  left: 1019px;
+  position: absolute;
+  top: 28px;
+}
+
+.header .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 15px;
+  left: 1093px;
+  position: absolute;
+  top: 28px;
+}
+
+.header .overlap-group-2 {
+  height: 100px;
+  position: relative;
+}
+
+.header .frame-4 {
+  align-items: center;
+  display: flex;
+  gap: 60px;
+  justify-content: space-around;
+  left: 11px;
+  padding: 10px;
+  position: absolute;
+  top: 6px;
+  width: 278px;
+}
+
+.header .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 71px;
+  margin-left: -2px;
+  margin-right: -2px;
+  padding: 10px;
+  position: relative;
+}
+
+.header .frame-6 {
+  align-items: center;
+  background-color: #396ef7;
+  border-radius: 8px;
+  display: flex;
+  gap: 5px;
+  height: 44px;
+  justify-content: center;
+  padding: 8px 12px;
+  position: relative;
+  width: 242px;
+}
+
+.header .icon-plus {
+  height: 22.5px;
+  position: relative;
+  width: 22.5px;
+}
+
+.header .connect {
+  color: var(--text-100);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.header .rectangle-3 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1185px;
+}
+
+.header.default {
+  position: relative;
+}

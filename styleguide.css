@@ -1,0 +1,12 @@
+:root {
+  --background-color1: rgba(49, 53, 63, 1);
+  --background-color2: rgba(27, 32, 40, 1);
+  --black: rgba(0, 0, 0, 1);
+  --main-100: rgba(58, 111, 248, 1);
+  --mainlinear: rgba(58, 111, 248, 1);
+  --sec-100: rgba(244, 109, 34, 1);
+  --secondary-100: rgba(30, 203, 79, 1);
+  --stroke: rgba(228, 228, 228, 1);
+  --text-10: rgba(158, 158, 158, 1);
+  --text-100: rgba(255, 255, 255, 1);
+}

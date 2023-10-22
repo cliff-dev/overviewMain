@@ -1,0 +1,61 @@
+.style-outline-size {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.style-outline-size .group {
+  height: 17px;
+  left: 7px;
+  position: relative;
+  top: 6px;
+  transform: rotate(14deg);
+  width: 15px;
+}
+
+.style-outline-size .overlap-group {
+  height: 20px;
+  left: -1px;
+  position: relative;
+  top: -2px;
+  width: 17px;
+}
+
+.style-outline-size .subtract {
+  height: 7px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-14deg);
+  width: 16px;
+}
+
+.style-outline-size .rectangle {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.style-outline-size .div {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 12px;
+  left: 6px;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.style-outline-size .rectangle-2 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 5px;
+  left: 6px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
